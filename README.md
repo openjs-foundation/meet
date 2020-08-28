@@ -1,6 +1,6 @@
 # Join
 
-This is a tool built with the intent to provide permanent links for Node.js project meetings, no matter what the _real_ join links are.
+This is a tool built with the intent to provide permanent links for OpenJS project meetings, no matter what the _real_ join links are.
 
 ## How it Works
 
@@ -33,9 +33,9 @@ A finished example:
 
 ```json
     {
-      "name": "TSC",
-      "filename": "tsc",
-      "link": "https://zoom.us/j/611357642"
+      "name": "Cross Project Council",
+      "filename": "cpc",
+      "link": "https://zoom.us/j/920010234"
     }
 ```
 

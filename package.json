@@ -1,9 +1,10 @@
 {
-  "name": "meetings",
+  "name": "meet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prebuild": "rm -rf ./docs && mkdir docs",
     "build": "node index.js"
   },
   "keywords": [],
