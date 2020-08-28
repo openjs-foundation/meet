@@ -1,4 +1,4 @@
-# Join
+# Meet
 
 This is a tool built with the intent to provide permanent links for OpenJS project meetings, no matter what the _real_ join links are.
 
